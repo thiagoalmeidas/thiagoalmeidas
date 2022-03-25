@@ -18,6 +18,12 @@ Here are some ideas to get you started:-->
 <div align="center">
   <h3>Ferramentas e Tecnologias:</h3>
   
+   <p>
+    <a href="https://github.com/thiagoalmeidas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalmeidas&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoalmeidas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </p>
+  
   <div>
     <h4>FrontEnd</h4>
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -31,13 +37,18 @@ Here are some ideas to get you started:-->
   
   <div>
     <h4>BackEnd</h4>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />       
   </div>
   
   <div>
     <h4>Graphics</h4>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  </div>
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+  </div> 
   
 </div>
 
