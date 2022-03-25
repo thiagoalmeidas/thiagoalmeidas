@@ -8,9 +8,8 @@
 - :email: Entre em contato comigo pelo email: thiago_as@hotmail.com ...
 - ⚡ Curiosidade: Estudo FullStack, porém é inegável que sou apaixonado pelo FrontEnd ...
 
-##Ferramentas e Tecnologias:
 <div align="left">
-
+   <h4>Ferramentas e Tecnologias:</h4>
    <p>
     <a href="https://github.com/thiagoalmeidas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalmeidas&layout=compact&langs_count=7&theme=dracula"/>
