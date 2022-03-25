@@ -1,13 +1,6 @@
 ## Olá, me chamo Thiago ! 
 ### Estou feliz que você chegou até aqui :smiley:
 
-
-<!--
-**thiagoalmeidas/thiagoalmeidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-
 - :hammer: Atualmente estou trabalhando em um Projeto Pessoal e estudando FullStack na Recode ...
 - :honeybee: Estou em constante aprendizado, atualmente estou focado em FrontEnd e BackEnd ...
 - :boom: Colaboradores em meus projetos pessoais sao bem-vindo! ...
@@ -15,9 +8,9 @@ Here are some ideas to get you started:-->
 - :email: Entre em contato comigo pelo email: thiago_as@hotmail.com ...
 - ⚡ Curiosidade: Estudo FullStack, porém é inegável que sou apaixonado pelo FrontEnd ...
 
-<div align="center">
+<div align="left">
   <h3>Ferramentas e Tecnologias:</h3>
-  
+  =================
    <p>
     <a href="https://github.com/thiagoalmeidas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalmeidas&layout=compact&langs_count=7&theme=dracula"/>
@@ -53,7 +46,7 @@ Here are some ideas to get you started:-->
 </div>
 
 
-<div align="center">
+<div align="left">
   <h3>Redes Sociais:</h3>
   <a href="https://instagram.com/m.urb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "mailto:thiago_as@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
@@ -61,4 +54,3 @@ Here are some ideas to get you started:-->
   <a href = "https://api.whatsapp.com/send?phone=5511946703672&text=Olá vi seu contato no GitHub!, podemos falar?"><img src="https://img.shields.io/badge/Whatsapp-D148343?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>         
 </div>
 
-          
