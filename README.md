@@ -10,7 +10,6 @@
 
 <div align="left">
   <h3>Ferramentas e Tecnologias:</h3>
-  =================
    <p>
     <a href="https://github.com/thiagoalmeidas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalmeidas&layout=compact&langs_count=7&theme=dracula"/>
