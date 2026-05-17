@@ -48,7 +48,7 @@ o dado como produto — com dono, contrato, SLA e documentação.
 ## `> cat jornada.log`
 
 ```
-2024–presente   Biolab Farma          Data Engineer Pleno
+2026–presente   Biolab Farma          Data Engineer Pleno
                                       ↳ Azure · Databricks · Delta Lake · PySpark
 
 ████████████░   Prime Energy          Analytics & Data
