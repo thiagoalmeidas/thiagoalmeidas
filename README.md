@@ -154,33 +154,15 @@ PID   PROCESSO                         CPU%   PRIORIDADE
 
 ---
 
-## `> cat stats/`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=0f2027&title_color=4fc3f7&icon_color=FF3621&text_color=cfd8dc&border_color=2c5364&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&bg_color=0f2027&title_color=4fc3f7&text_color=cfd8dc&border_color=2c5364&hide_border=false&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=0f2027&ring=FF3621&fire=FF3621&currStreakLabel=4fc3f7&border=2c5364&stroke=2c5364"/>
-
-</div>
-
----
-
 ## `> cat contato.sh`
 
 ```bash
 #!/bin/bash
 # A melhor forma de trocar uma ideia sobre dados
 
-echo "LinkedIn  → linkedin.com/in/seu-perfil"
-echo "GitHub    → github.com/SEU_USUARIO"
-echo "Email     → seu@email.com"
+echo "LinkedIn  → linkedin.com/in/thiago-almeidas"
+echo "GitHub    → github.com/thiagoalmeidas"
+echo "Email     → thiago_as@hotmail.com"
 
 # Tópicos que me animam:
 #   - Arquitetura de dados no Azure + Databricks
